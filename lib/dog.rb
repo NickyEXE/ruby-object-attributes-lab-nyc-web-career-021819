@@ -1,3 +1,3 @@
 class Dog
-  initialize(dog)
+  initialize(dog
 end
